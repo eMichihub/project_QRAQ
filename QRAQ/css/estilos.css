@@ -1,0 +1,14 @@
+/*fuentes de google*/
+@font-face{/*Esto tampoco funcionó. revisar*/
+    font-family: 'titulo';
+    src: url('../assets/fonts/Raleway_Title/Raleway-Italic-VariableFont_wght.ttf');
+    font-family: 'subT';
+    src: url(../assets/fonts/Cormorant_Infant_SubT/CormorantInfant-Italic.ttf);
+    font-family: 'texto';
+    src: url(../assets/fonts/Mukta_Vaani_Text/MuktaVaani-Regular.ttf);
+}
+
+body{
+    font-family: 'texto';
+    
+}
